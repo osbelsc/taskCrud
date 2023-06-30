@@ -1,0 +1,51 @@
+@import url('https://fonts.cdnfonts.com/css/iqos');
+
+nav {
+
+
+
+    height: 7rem;
+    background-color: slategray;
+    box-shadow: 5px 5px 10px 0px rgba(197, 183, 183, 0.1);
+}
+
+.formTask {
+    margin: 4rem;
+    padding: 2rem;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.1);
+}
+.form-group{
+    margin-top: 1rem;
+}
+h1{
+text-align: center;
+}
+
+.listTask {
+    margin-top: 4rem;
+
+}
+
+button {
+    margin-top: 2rem;
+}
+
+.content {
+    margin-top: 6rem;
+    height: 100vh;
+}
+
+body {
+
+
+    margin: 0;
+    background: #0f0c29;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
